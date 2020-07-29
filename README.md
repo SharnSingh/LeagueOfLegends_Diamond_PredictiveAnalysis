@@ -35,7 +35,7 @@ The purpose of this project is to create a predictive model that is able to pred
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/SharnSingh/LeagueOfLegends_Diamond_PredictiveAnalysis/blob/master/high_diamond_ranked_10min.csv) within this repo.    
-3. Data processing/transformation/analysis notebooks are being kept [here](Repo folder containing data processing scripts/notebooks)
+3. Data processing/transformation/analysis notebooks are being kept [here](https://github.com/SharnSingh/LeagueOfLegends_Diamond_PredictiveAnalysis/blob/master/LeagueOfLegends_Dia_analysis.ipynb)
 
 
 ## Contact
