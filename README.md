@@ -23,7 +23,7 @@ The purpose of this project is to create a predictive model that is able to pred
 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This project was based on the recent exponential growth of Esports in media. Over the last decade, League of Legends has attracted over hundreds of millions of viewers across multiple platforms including forty four million concurrent viewers during the World Championship. With the increase of popularity, there has been a rise in betting on games. Being able to accurately predict the outcome of the game based on early game statistics might help betters make accurate picks and help websites develop a better betting platform. So based on this information, the goal of this project was to develop predictive models that would be able to predict the winning team accurately based on game statistics at ten minutes. The dataset is from Kaggle and can be found [here](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min). Since the outcome is binary, a few classification models will be tested to see which provides the optimal predictions. 
 
 ## Needs of this project
 
